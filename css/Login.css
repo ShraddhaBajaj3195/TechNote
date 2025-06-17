@@ -1,0 +1,119 @@
+.side_image
+{
+	 width: 100%;
+    height: 100%;
+	
+}
+#c_fluid {
+   
+    padding: inherit !important;
+ 
+}
+h2.heading_login
+{
+    margin-bottom: 5% !important;
+    margin-top: 3% !important;
+    text-align: center;
+    color: #e370ab !important;
+    font-family: 'Font Awesome 5 Free';
+}
+h1{
+    margin-bottom: 5% !important;
+    margin-top: 3% !important;
+    text-align: center;
+    color: #e370ab !important;
+    font-family: 'Font Awesome 5 Free';
+    background: #f1e7e2;
+    padding: 4% 0% !important;
+    margin: 5%;
+    /* box-shadow: 0 4px 8px 0 rgb(255 255 255 / 55%), 0 6px 20px 0 rgb(255 122 202 / 55%) !important; */
+     border-radius: 5px;
+}
+.heading_footer
+{
+     margin-bottom: 5% !important;
+    margin-top: 3% !important;
+    text-align: center;
+    color: #e370ab !important;
+    font-family: 'Font Awesome 5 Free';
+    background: #f1e7e2;
+    padding: 4% 0% !important;
+    margin: 5%;
+    /* box-shadow: 0 4px 8px 0 rgb(255 255 255 / 55%), 0 6px 20px 0 rgb(255 122 202 / 55%) !important; */
+     border-radius: 5px;
+    font-family: "Heebo", sans-serif;
+    min-width: 91%;
+    color: #00000073 !important;
+
+}
+input.form-control.submit_button
+{
+   	color:white;
+	background:#e370ab;
+	border: 1px solid #efc4cf;
+    border-radius: 6px;
+}
+input.form-control.submit_button:hover
+{
+   	color:#e370ab;
+	background: white;
+	border: 1px solid;
+    border-radius: 6px;
+}
+.login_form_div
+{
+    background-color: #fff;
+   
+}
+.inputs
+{
+text-align: center;
+}
+.col-md-6.md_6 {
+    padding: 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+a.btn_register
+{
+    color: #e370ab !important;
+    font-size: 18px;
+}
+.btn_register_div
+{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.form-horizontal
+ {
+    /* border: 1px solid #e370ab; */
+    border-radius: 5px;
+    padding: 2%;
+    margin: 10% 5%;
+    /* box-shadow:0 4px 8px 0 rgb(255 255 255 / 55%), 0 6px 20px 0 rgb(255 122 202 / 55%) !important; */
+     background: #f1e7e2;
+}
+.register_msg
+{
+    color: #066e1d;
+    padding-left: 4%;
+    padding-bottom: 4%;
+}
+.login_error_msg
+{
+    color: red;
+    padding-left: 4%;
+    padding-bottom: 4%;
+}
+@media only screen and (max-width: 850px ) {
+    .form-control {
+    margin-left: 15% !important; 
+    } 
+}
+.hashtag
+{
+    color:#ffc0cb ;
+    font-weight: 700;
+    padding: 1%;
+
+}

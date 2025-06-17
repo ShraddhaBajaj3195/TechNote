@@ -1,0 +1,127 @@
+/* body
+{
+    margin: 0px !important;
+}
+.header_content
+{ 
+    background-color: #f5cdd6;
+    height: 80px;
+    padding: 0px;
+    border: 1px solid #e370ab !important;
+}
+.main_content
+{
+    padding-left: 200px;
+}
+.nav_content
+{
+    background: #f5cdd6;;
+    min-width: 13%;
+    position: fixed;
+    z-index: -1;
+  
+    height: 100%;
+    top: 0px;
+    left: 0;
+    overflow: hidden;
+    padding-top: 100px;
+    border: 1px solid #e370ab !important;
+}
+.footer_content
+{
+    padding-left: 200px;
+    margin-top: 483px !important;
+
+    background-color: #ffcfcf;
+    height: 70px;
+}
+.image_logo
+{
+   min-width: 13% !important;
+   max-height: 80px !important;
+}
+@media only screen and (max-width: 461px ) {
+.header_content
+{ 
+    height: 65px;
+   
+}
+.image_logo
+{
+   width: 21% !important;
+}
+} */
+
+.bg-light {
+    background-color: #f1e7e2 !important;
+}
+
+.heading_technote,.sidebar .navbar .navbar-nav .nav-link.active {
+    color: #e370ab !important;
+    /* font-family: 'Font Awesome 5 Free'; */
+}
+.fa, .fas {
+ 
+    color: #ffc0cb !important;
+}
+.form-control:hover{
+border-color : pink !important;
+}
+
+.show_all_button{
+ color: #b7008f !important; 
+}
+
+tr{
+    color:  #000000bf !important;
+}
+th
+{
+    font-family: cursive !important;
+}
+.form-control{
+margin: 1% 0% 2% 1% !important;
+}
+input#inputPdfFile {
+    margin-top: 0% !important;
+}
+#inputCoding
+{
+    width: 99% !important;
+    height: 70% !important;
+    margin: 0% 0% 3% 1.5% !important;
+
+}
+.ql-toolbar.ql-snow
+{
+    margin-left: 1.5%;
+    width: 99%;
+}
+#inputCoding_required,#inputTitle_required,#inputDescription_required,#inputRefrenceLink_required,#inputPdfFile_required
+{
+    margin-top: -1.5%;
+    margin-bottom: 0%;
+    text-align: left;
+    padding-left: 3%;
+    color: #ff0000b0;
+    font-size: 13px;
+}
+#inputCoding_required
+{
+    margin-top: -3% !important;
+    margin-bottom: 4% !important;
+}
+.html_notes_save
+{
+    color: #e370ab !important;
+}
+.test-div{
+    text-align: left !important;
+    color: black !important;
+    height: 450px !important;
+
+}
+.bg-light.text-center.rounded.p-4
+{
+    min-height: 450px !important;
+}
